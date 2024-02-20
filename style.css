@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.content {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+    min-height: 300px;
+}
